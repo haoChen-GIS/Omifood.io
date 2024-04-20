@@ -103,6 +103,7 @@ function newFeature() {
   console.log("New feature");
 }
 newFeature();
+console.log("test");
 
 // https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js
 
