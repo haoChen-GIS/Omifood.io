@@ -98,6 +98,7 @@ function checkFlexGap() {
   if (!isSupported) document.body.classList.add("no-flexbox-gap");
 }
 checkFlexGap();
+
 function newFeature() {
   console.log("New feature");
 }
